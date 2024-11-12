@@ -1,6 +1,0 @@
-mkdir data
-mkdir notebooks
-echo "This is a placeholder file" > data/README.md
-git add .
-git commit -m "Add new folders for project structure"
-git push origin main
