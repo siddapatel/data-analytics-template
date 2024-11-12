@@ -1,0 +1,9 @@
+# Location to store all data that is needed: CSV files, .txt files, .html files, etc.
+# Sample Data Dictionary:
+
+| Variable | Description                    | Data Type |
+| -------- | ------------------------------ | --------- |
+| ID       | Unique identifier for each row | Integer   |
+| age      | Age of individual              | Integer   |
+| income   | Annual income in USD           | Float     |
+| city     | City of residence              | String    |
